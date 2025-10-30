@@ -398,20 +398,3 @@ If you found this analysis helpful or learned something new:
 Your support motivates me
 ---
 
-```
-data-analysis
-python
-pandas
-data-visualization
-matplotlib
-seaborn
-business-intelligence
-exploratory-data-analysis
-jupyter-notebook
-data-science
-portfolio-project
-business-analytics
-sales-analysis
-ecommerce
-kaggle
-```
