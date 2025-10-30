@@ -101,13 +101,15 @@ E-Commerce-Sales-Analysis/
 │
 ├── Ecommerce_Sales_Analysis.ipynb    # Main analysis notebook
 ├── README.md                          # Project documentation
-├── data/                              # Dataset folder
-│   └── Sample-Superstore.csv
-├── images/                            # Visualization exports
-│   ├── category_performance.png
-│   ├── regional_analysis.png
-│   ├── time_series_trend.png
-│   └── customer_segments.png
+├── Sample-Superstore.csv                            
+├── category-analysis.png            # Visualization exports
+├── regional-performance.png
+├── customer-analysis.png
+├── discount-impact-analysis.png
+├── sub-category-analysis.png
+├── overall-summary.png
+├── monthly-sales.png
+├── customer-segment-analysis.png
 └── requirements.txt                   # Python dependencies
 ```
 
@@ -200,29 +202,32 @@ jupyter notebook Ecommerce_Sales_Analysis.ipynb
 ## 📸 Sample Visualizations
 
 ### Category Performance Analysis
-![Category Performance](images/category-analysis.png)
+![Category Performance](category-analysis.png)
 *Technology leads in profitability while Furniture underperforms significantly*
 
 ### Sub-Category Analysis
-![Sub-Category Analysis](images/sub-category-analysis.png)
+![Sub-Category Analysis](sub-category-analysis.png)
 
 ### Discount Impact Analysis
-![Discount Impact](images/discount-impact-analysis.png)
+![Discount Impact](discount-impact-analysis.png)
 
 ### Geographic Distribution
-![Regional Analysis](images/regional-performance.png)
+![Regional Analysis](regional-performance.png)
 *West region shows strongest performance across all metrics*
 
 ### Sales Trend Over Time
-![Time Series](images/monthly-sales.png)
+![Time Series](monthly-sales.png)
 *Clear seasonal pattern with Q4 spikes indicating holiday shopping*
 
 ### Customer Segmentation
-![Customer Segments](images/customer-segment-analysis.png)
+![Customer Segments](customer-segment-analysis.png)
 *Consumer segment dominates but Corporate shows higher average order value*
 
+### Customer Analysis
+![Customer Analysis](customer-analysis.png)
+
 ### Overall Summary
-![overall summary](images/overall-summary.png)
+![overall summary](overall-summary.png)
 
 ---
 ## 🎓 Skills Demonstrated
